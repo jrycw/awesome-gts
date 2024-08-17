@@ -1,0 +1,10 @@
+great_tables[extra]
+pandas
+polars
+streamlit
+panel
+fastapi
+python-fasthtml
+django
+ruff
+isort
